@@ -7,7 +7,7 @@
             "command": "cmd.exe",
             "args": [
                 "/c",
-                "g++ -std=c++17 -o \"code\\${fileBasenameNoExtension}\" \"${file}\" && .\\code\\${fileBasenameNoExtension} < input.txt > output.txt"
+                "g++ -std=c++17 -o \"exe\\${fileBasenameNoExtension}\" \"${file}\" && .\\exe\\${fileBasenameNoExtension} < input.txt > output.txt"
             ],
             "group": {
                 "kind": "build",

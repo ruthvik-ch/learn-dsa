@@ -1,1 +1,4 @@
-8
+Element -4 | Count -1
+Element -3 | Count -1
+Element -2 | Count -3
+Element -1 | Count -2
